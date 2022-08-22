@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFPhase3_Perspective.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="603" y="527" width="507" height="487"/>
+	<SubTexture name="Sing_Down0000" x="603" y="5" width="497" height="512"/>
+	<SubTexture name="Sing_Left0000" x="1110" y="5" width="483" height="482"/>
+	<SubTexture name="Sing_Right0000" x="5" y="1024" width="521" height="509"/>
+	<SubTexture name="Sing_Up0000" x="115" y="5" width="478" height="551"/>
+</TextureAtlas>
